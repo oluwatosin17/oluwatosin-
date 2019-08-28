@@ -1,0 +1,45 @@
+
+body {
+    background-color: white;
+}
+h1 {
+   color: dodgerblue;
+   text-align: center;
+   font-family: verdana;
+   font-size: 34px;
+ }
+/* unvisited link */
+a:hover {
+  color:red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+  font-family: courier;
+}
+h3 {
+  color: #8b0000;
+  text-align: center;
+  font-family:courier;
+  font-size: 21px;
+}
+ul li {
+  list-style: square;
+  background: #cce5ff;
+  padding: 5px;
+  margin: 3px;
+}
+
+  ul {
+background: #3399ff;
+margin: 5px;
+}
+
+h4 ,strong {
+  color: #006400;
+}
+td{
+  text-align: justify;
+  text-align: interword;
+}
